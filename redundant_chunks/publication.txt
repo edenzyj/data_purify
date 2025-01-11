@@ -1,0 +1,113 @@
+Note: This publication was uploaded by Bevan Simon Weir on May 22, 2014. The user has requested enhancement of the downloaded file.
+"Queensland Journal of Agricultural and Animal Sciences," Vol. 22, 1965, 438.
+All content following this page was uploaded by Octávio S. Paulo on February 12, 2015. The user has requested enhancement of the downloaded file.
+Submitted: May 11, 2011; Accepted for publication: September 8, 2011.
+Article Info: Received: 30 April 2018; Accepted: 20 June 2018; Published: 24 July 2018.
+Received: 4 January 2019; Accepted: 29 October 2019; Published: xx xx xxxx.
+Attribution: You must credit the author or licensor as specified, but not in a way that suggests endorsement.
+Non-commercial: The work cannot be used for commercial purposes.
+No derivative works: Altering or building upon this work is prohibited.
+Accepted for publication: 6 November 2018.
+All content following this page was uploaded by Shunsuke Asano on December 22, 2018. The user has requested enhancement of the downloaded file.
+Published online: 21 August 2012; doi:10.3114/sim0011. Hard copy: September 2012.
+Accepted for publication: 11 July 1997.
+The authors report no conflicts of interest. The authors alone are responsible for the content and writing of the paper.
+Published online: 03 Oct 2012.
+Copyright © 1998 The American Phytopathological Society. All rights reserved.
+References in this publication to a trademark, proprietary product, or company name by personnel of the U.S. Department of Agriculture or anyone else are intended for explicit description only and do not imply approval or recommendation to the exclusion of others that may also be suitable.
+First edition published 1984. Second edition published 1998. All rights reserved.
+No portion of this book may be reproduced in any form, including photocopy, microfilm, information storage and retrieval systems, computer databases, or software, or by any means, including electronic or mechanical, without written permission from the publisher. Copyright is not claimed for any portion of this work written by U.S. government employees as part of their official duties.
+Printed in the United States of America on acid-free paper.
+© All rights reserved by Mohammed Shoeib Ahmer.
+. https://doi.org/10.1371/journal.pone.0129140.
+Alvarez MG. Primer catálogo de enfermedades de plantas Mexicanas. Fitofilo. 1976;71:1169. ISSN: 0046-399X. (in Spanish).
+Bebber DP, Ramotowski MAT, Gurr SJ. Crop pests and pathogens move polewards in a warming world. Nat Clim Change. 2013;3:985-8. https://doi.org/10.1038/nclimate1990.
+Article info: Submitted: 27 October 2010; Accepted: 20 November 2010; Published: 23 November 2010.
+The paper is a partial fulfillment of the thesis requirements for the M.S. degree at North Carolina State University and is part of the Journal Series of the North Carolina Agricultural Research Service.
+Accepted for publication 14 December 2015.
+Newly generated sequences from each isolate were blasted against the GenBank non-redundant database, restricting searches to type materials for the initial determination of the closest matching species and species complex. Related gene sequences (ITS, GAPDH, CHS-1, ACT, TUB2, CAL, and ApMAT) from recent publications were downloaded from GenBank. For each gene, sequences from isolates belonging to the same species complex were aligned using the MAFFT v7 online server (https://ma.cbrc.jp/alignment/server/). The aligned sequences were manually edited using MEGA v10 to enhance the alignment. The post-alignment sequences of multiple genes/loci were concatenated in a text editor.
+To date, several species within the C. gloeosporioides, C. truncatum, C. magnum, and C. orchidearum complexes have been associated with papaya anthracnose, indicating that more than two Colletotrichum species are involved. It is important to note that C. capsici is now considered a synonym of C. truncatum and is no longer used in many publications. In Australia, C. acutatum, C. simmondsii, and C. queenslandicum have been described in relation to papaya, while C. siamense has been identified in South Africa and China. In India, multi-gene phylogenetic analysis has revealed several species associated with papaya anthracnose, including C. karstii, C. fructicola, C. gloeosporioides, and C. salsolae. Most of the reported species are not host-specific and can be found in various locations within papaya-producing countries.
+2009. Plant Management Network. This article is in the public domain. Accepted for publication on 13 April 2009. Published on 9 June 2009.
+Accepted for publication: 17 March 1997.
+First author: Department of Plant Pathology, The Ohio State University, Wooster 44691-4096; second author: Department of Biology, Warren Wilson College, Asheville, NC 28815-9000. Accepted for publication 2 May 1997. Madden, L. V., and Boudreau, M. A. 1997. Effect of strawberry density on the spread of anthracnose caused by Colletotrichum acutatum. Phytopathology 87:828-838.
+Scientific article 2724 of the West Virginia Agricultural and Forestry Experiment Station discusses research on enhancing storage quality and reducing decay in apples through calcium supplementation. Accepted for publication on 13 July 1999, this study focuses on the postharvest environment (6–10). Few studies have explored the potential role of calcium supplementation during the preharvest period for disease reduction. The trials aimed to determine whether the use of calcium salts affected fungal growth and disease incidence, both in vitro and in vivo.
+Plant Disease 70:1074, 1986. Accepted for publication 3 June 1986.
+Plant Disease 70:1074, 1986. Accepted for publication 2 July 1986.
+Plant Disease 70:1074, 1986. Accepted for publication 22 July 1986.
+The viruses were serologically identical in reciprocal gel diffusion tests and incited similar symptoms in extensive host range studies. This is the first report of TAV in Arkansas. The isolate is considered to be identical to R. tac-Smith H. Tramaie. The publication costs of these articles were defrayed in part by page charge payments. These articles must therefore be marked "advertisement" in accordance with 18 U.S.C. § 1734 solely to indicate this fact.
+Plant Disease 70:1074, 1986. Accepted for publication 11 July 1986.
+Of Biological Laboratory, Department of Pathology and Crop Physiology, Louisiana State University Agricultural Center, Baton Rouge 70803. Plant Disease 70:1074, 1986. Accepted for publication 22 July 1986.
+Accepted for publication 25 September 2002.
+Accepted for publication: 24 December 2019.
+Accepted for publication 28 March 2001.
+Accepted for publication 23 May 2002.
+Accepted for publication: 29 December 2017.
+Department of Plant Pathology, ARO, The Volcani Center, P.O. Box 6, Bet Dagan 50250, Israel. Accepted for publication 4 February 1997.
+The author(s) declare no conflict of interest. Accepted for publication 20 December 2019.
+Consent for Publication: Not applicable.
+Accepted for publication on 6 November 2002.
+Accepted for publication 29 November 2004.
+Accepted for publication: 3 January 2015.
+The publication was received on August 3, 1998, and accepted on October 21, 1998. Under postal regulations, this paper must be marked as an advertisement solely to indicate this fact.
+Downloaded from https://academic.oup.com/mbe/article-abstract/35/6/1547/4990887 Mol. Biol. Evol. 35(6):1547–1549 doi:10.1093/molbev/msy096 Advance Access publication May 2, 2018.
+The initial concept of a registration system, which involved sending copies of publications to a documentation center, was discussed during a nomenclature meeting in 1954 (Hawksworth 1992). Subsequent proposals were formulated between 1991 and 1998 (Brummitt et al. 1986, Greuter & von Raab-Straube 1998).
+The responsibility for submitting details of proposed nomenclatural novelties rests with the authors. This process is envisioned as a practice imposed on authors by high-quality journals, similar to the current incorporation of GenBank accession numbers. If the International Code of Botanical Nomenclature (ICBN) were to be modified, this could become a mandatory requirement. The date for priority purposes will remain the date of effective publication, assuming the name complies with all requirements for valid publication.
+Accepted for publication 4 April 2018.
+Accepted for publication 6 July 2001.
+Since ICARDA’s inception, the Soil-Plant Analysis Laboratory has played a vital role in the research activities of the Natural Resource Management Program (NRMP) and across the Center. ICARDA management has consistently supported the Soil-Plant Laboratory; without this support, the publication of this manual, which outlines adapted soil and plant analysis procedures, would not have been possible. We thank readers who noted errors in the first two editions of this manual and those who provided suggestions for improvement.
+ICARDA welcomes comments and feedback on this publication. Please respond to info@icarda.org.
+University Publications that cover a broad spectrum of soil, water, and plant tests (Chapman and Pratt, 1961) as well as more specialized studies (Reisenaur, 1983).
+Commercially Oriented Publications reflecting state-of-the-art instrumentation and computer-assisted data analysis (Jones, 1991; Jones et al., 1991).
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers, we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please note that during the production process, errors may be discovered that could affect the content, and all legal disclaimers that apply to the journal pertain.
+Accepted for publication on 23 May 2002.
+Accepted for publication on 28 April 2003.
+All authors listed have made substantial, direct, and intellectual contributions to the work and have approved it for publication. RB and PT drafted the manuscript; FP, SS, GLF, and MT critically revised and improved the manuscript.
+Received: 9 June 2020; Accepted: 3 August 2020.
+Received: 3 March 2017; Accepted: 7 April 2017; Published: 7 June 2017.
+Netherlands: Collected from leaf spots of Dracaena sp., received from Naktuinbouw Roelofarendsveen, culture CBS 125957.
+Plant Health Progress, 9 June 2009.
+Reference to commercial products or trade names is made with the understanding that no discrimination is intended and no endorsement by The Texas Agricultural Experiment Station is implied.
+Copyright © 1978 by Academic Press, Inc. All rights of reproduction in any form reserved.
+Statistical analyses were performed using Data Processing System software (DPS 7.0) for Windows (Zhejiang University, Hangzhou, China), and data were subjected to analysis of variance (ANOVA) followed by Fisher’s Least Significant Difference (LSD) tests for means separation. All data will be available to Editorial Board Members, referees, and readers.
+Published in: Canadian Journal of Plant Pathology, Volume 19, Issue 2, Pages 225-230, December 1997.
+Availability: The article has been available online since December 23, 2009.
+Korea Statistical Information Service. Cultivated area of fruit and vegetable crops and income of greenhouse crops [Internet]. Daejeon: Statistics Korea; 2024 [cited 2024 May 20]. Available from: https://kosis.kr.
+© 2024 THE KOREAN SOCIETY OF MYCOLOGY. This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Conflict of Interest: The authors declare no conflict of interest.
+Attribution: You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests endorsement).
+Non-commercial: You may not use this work for commercial purposes.
+No derivative works: You may not alter, transform, or build upon this work.
+For any reuse or distribution, you must make clear to others the license terms of this work, which can be found at http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode. Any of the above conditions can be waived if you get permission from the copyright holder. Nothing in this license impairs or restricts the author’s moral rights.
+This article is in the public domain and not copyrightable. It may be freely reprinted with customary crediting of the source. The American Phytopathological Society, 2002.
+Faculty of Veterinary and Agricultural Sciences, The University of Melbourne, Parkville, VIC 3010, Australia. Full list of authors is available at the end of the article.
+The Author(s). 2019 Open Access. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article unless otherwise stated.
+Adherence to National and International Regulations: The importation and use of isolates adhered to regulations related to National Plant Health and Quarantine, as well as the Nagoya Protocol to the Convention on Biological Diversity. The research was not supported by any external grants; both the student and the project were supported by the University of Melbourne and the Westerdijk Fungal Biodiversity Institute.
+Availability of Data and Materials: Alignments and tree files generated during the current study are available in TreeBASE (accession: https://www.treebase.org/treebase-web/home.html; study S23829). All sequence data can be found in NCBI GenBank, following the accession numbers provided in the manuscript.
+Ethics Approval and Consent to Participate: Not applicable.
+The authors declare no competing interests. Springer Nature remains neutral regarding jurisdictional claims in published maps and institutional affiliations.
+HORTSCIENCE 37(4):686–690. 2002.
+Technical Contribution No. 6350 of the Clemson University Experiment Station. This material is based on work supported by NIFA/USDA, under project number SC-1700501 and the SC Department of Agriculture Specialty Crop Block Grant Program.
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, editors, and reviewers. Any product evaluated in this article, or claims made by its manufacturer, are not guaranteed or endorsed by the publisher.
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.
+Downloaded from https://academic.oup.com/mbe/article-abstract/35/6/1547/4990887.
+Data Availability Statement: All relevant data are within the paper and its Supporting Information files.
+Competing Interests: The authors have declared that no competing interests exist.
+HORTSCIENCE 27(10):1087-1088. 1992.
+The views expressed are those of the authors and do not necessarily reflect those of ICARDA. The use of trade names does not imply endorsement of, or discrimination against, any product by the Center. Maps included are intended to support research data and are not meant to delineate political boundaries.
+Box 114/5055, Beirut, Lebanon. All rights reserved.
+ICARDA encourages fair use, sharing, and distribution of this information for non-commercial purposes, with proper attribution and citation.
+Please cite this article as: Bragança, C.A.D., Damm, U., Baroncelli, R., Massola Júnior, N.S., Crous, P.W., "Species of the Colletotrichum acutatum complex associated with anthracnose diseases of fruit in Brazil," Fungal Biology (2016), doi: 10.1016/j.funbio.2016.01.011.
+HORTSCIENCE, VOL. 28(10), OCTOBER 1993, 1055.
+Interested parties may request in vitro starter stocks (up to five per clone) of any or all of these selections from B.J. Smith, USDA Agricultural Research Service, Small Fruit Research Station, P.O. Box 287, Poplarville, MS 39470 (phone: 601/795-8751, fax: 601/795-4965). The in vitro stocks were produced from apical meristem explants and are considered free of fungal and bacterial contaminants, and presumably free of viruses.
+Florida Agricultural Experiment Station Journal Series R-05704.
+The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fmicb.2017.02001/full#supplementary-material.
+Published online: 21 February 2012; doi:10.3114/sim0002.
+Copyright CBS-KNAW Fungal Biodiversity Centre, P.O. Box 85167, 3508 AD Utrecht, The Netherlands. This work is open access under the CC BY-NC-ND license.
+Attribution: You must attribute the work in the manner specified by the author or licensor (but not in a way that suggests endorsement).
+Non-commercial: You may not use this work for commercial purposes.
+No derivative works: You may not alter, transform, or build upon this work.
+For any reuse or distribution, you must clearly indicate the license terms, which can be found at http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode. These conditions may be waived with permission from the copyright holder. Nothing in this license impairs or restricts the author's moral rights.
+The USDA breeding program has produced promising selections from this cooperative work, including ‘NC 3874’ and ‘NC 3892’ for the coastal plain of North Carolina; ‘MDUS 4787’, ‘MDUS 5122’, ‘MDUS 5130’, ‘NJ 8123-5’, and ‘NJ 8219-2’ for the Mid-Atlantic and Midwest regions; and hardy selections for the North, such as ‘MNUS 99’, ‘MNUS 52’, ‘MNUS 37’, ‘NY 113’, ‘WIUS 8284’, and ‘WI 8289’. New day-neutral selections, including ‘EB 411’, ‘EB 457’, and ‘EB 460’, which exhibit multiple disease resistance, also show promise.
+The USDA strawberry breeding program was initiated with clear, definable objectives aimed at developing cultivars adapted to the environmental conditions of different regions, and it continues to maintain these objectives.
+Published online: 16 August 2012; doi:10.3114/sim0010.
