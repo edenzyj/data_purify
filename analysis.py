@@ -45,7 +45,7 @@ def modify_json(input_file_path, strings_to_check, output_file_path):
 
 
 strings_to_check = []
-
+'''
 reference_dir = "reference_paper/"
 file_names = glob.glob(reference_dir + "*.txt")
 for file_name in file_names:
@@ -59,17 +59,17 @@ for file_name in file_names:
 
         fr.close()
 '''
-keyword_file = "keywords.txt"
-with open(keyword_file, 'r') as fr:
+redundant_file = "redundant_chunks/keywords.txt"
+with open(redundant_file, 'r') as fr:
     content = fr.read()
     paragraphs = content.split("\n")
     for paragraph in paragraphs:
         if len(paragraph) > 0:
             strings_to_check.append(paragraph)
-'''
+
 input_file = "input_dir/9907_RR100_nFT_Llama32_1000Q_k10.json"
-output_file = "output_dir/9907_RR100_nFT_Llama32_1000Q_k10_noReference.json"
-analysis_file = "analysis/reference.json"
+output_file = "output_dir/9907_RR100_nFT_Llama32_1000Q_k10_noKeywords.json"
+analysis_file = "analysis/keywords.json"
 
 
 if __name__ == "__main__":
