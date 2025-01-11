@@ -69,10 +69,16 @@ with open(keyword_file, 'r') as fr:
 '''
 input_file = "input_dir/9907_RR100_nFT_Llama32_1000Q_k10.json"
 output_file = "output_dir/9907_RR100_nFT_Llama32_1000Q_k10_noReference.json"
+analysis_file = "analysis/reference.json"
 
 
 if __name__ == "__main__":
     modified_query_ids_with_num = modify_json(input_file, strings_to_check, output_file)
+    
     print(modified_query_ids_with_num)
     for num in modified_query_ids_with_num:
         print(len(modified_query_ids_with_num[num]))
+        
+    with open(analysis_file, 'w') as fw:
+        json.dump(modified_query_ids_with_num, fw, indent=4)
+        fw.close()
