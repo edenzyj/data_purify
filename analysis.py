@@ -75,10 +75,10 @@ def draw_and_save_line_chart(data, output_file):
 
 
 input_file = "input_dir/9907_RR100_nFT_Llama32_1000Q_k10.json"
-output_file = "output_dir/9907_RR100_nFT_Llama32_1000Q_k10_noAcknowledge.json"
+output_file = "output_dir/9907_RR100_nFT_Llama32_1000Q_k10_noOthers.json"
 analysis_dir = "analysis/"
-analysis_file = analysis_dir + "Acknowledge.json"
-figure_file = analysis_dir + "Acknowledge.png"
+analysis_file = analysis_dir + "others.json"
+figure_file = analysis_dir + "others.png"
 
 
 if __name__ == "__main__":
@@ -97,7 +97,7 @@ if __name__ == "__main__":
 
             fr.close()
     '''
-    redundant_file = "redundant_chunks/acknowledge.txt"
+    redundant_file = "redundant_chunks/others.txt"
     with open(redundant_file, 'r', encoding="utf-8") as fr:
         content = fr.read()
         paragraphs = content.split("\n")
