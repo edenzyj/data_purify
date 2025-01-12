@@ -50,8 +50,8 @@ def draw_and_save_line_chart(data, output_file):
     Draws a line chart using the given data and saves it as an image file.
 
     Parameters:
-    data (List[int]): Data of the y-axis.
-    output_file (str): The file name to save the figure.
+        data (List[int]): Data of the y-axis.
+        output_file (str): The file name to save the figure.
     """
     # X-axis: Indices of the list
     x = list(range(len(data)))
@@ -59,6 +59,10 @@ def draw_and_save_line_chart(data, output_file):
     # Create the plot
     plt.figure(figsize=(10, 6))
     plt.plot(x, data, marker='o', linestyle='-', color='b', label='Line Chart')
+    
+    # Show data on every point.
+    for idx, val in enumerate(data):
+        plt.annotate(f'({idx}, {val})', (idx, val), textcoords = "offset points", xytext=(0,10), ha='center')
     
     # Set axis labels and title
     plt.xlabel("Number of redundant chunks in retrieved context")
